@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://malvin-c-file.onrender.com/$1"
+    }
+  ]
+}
